@@ -1,3 +1,7 @@
+# Moodcatcher (2019.11.25 – 2019.12.12])
+Summary: Journal that shows your emotion and sentiment analysis with colorful visualization
+Backend: Python - Django
+
 # Usage
 Clone this repo, setup virtualenv, install Django
 ```
