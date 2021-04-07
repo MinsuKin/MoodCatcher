@@ -7,8 +7,8 @@ Summary: Journal that shows your emotion and sentiment analysis with colorful vi
 ### Report_Moodcatcher.docx google viewer page(Korean)
 https://drive.google.com/file/d/1tzOKD9sdCIYcFAfnDfTHbqvfCsWUy-bt/view
 
-## Awarded
-https://drive.google.com/file/d/1GpHPW0UNyVV1W2aTJoov2Qtp3TLE7NzQ/view?usp=sharing
+### Award
+![project_award](https://user-images.githubusercontent.com/50944735/113793115-8cf66f00-9715-11eb-962e-bd9acee98f02.jpg)
 
 # Usage
 Clone this repo, setup virtualenv, install Django
